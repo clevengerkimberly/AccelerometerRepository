@@ -30,12 +30,12 @@ This model is in Phase 0 and 2.
 ---
 ## Instructions
 Counts can be calculated using Brønd’s method (2017) described in a previous [paper](https://www.ncbi.nlm.nih.gov/pubmed/28604558) for which there is code available on [GitHub](https://github.com/jbrond/ActigraphCounts) or an R package called [activityCounts](https://cran.r-project.org/web/packages/activityCounts/vignettes/activityCounts.html). Activity intensity can then be calculated for each epoch using these cut-points. Sedentary cut-points were 115, 576 and 768 counts/min for AG, AC4, AC10 (the three band pass filter ranges). Moderate and vigorous cut-points are listed below. The cut-points with the prefix ‘REG’ were developed using linear regression while those with the prefix ‘ROC’ were developed using ROC analysis.
-![image]()
+![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/5456c782169d691b95cf3ef049855e8b5aeee3a7/Br%C3%B8nd2019/Brond.JPG)
 
 ---
 ## Source Information
 #### *Reference*
-Brønd, J. C., Aadland, E., Andersen, L. B., Resaland, G. K., Andersen, S. A., & Arvidsson, D. (2019). The ActiGraph counts processing and the assessment of vigorous activity. Clinical Physiology and Functional Imaging, 39(4), 276-283. https://doi.org/10.1111/cpf.12571 [Link to Paper]()
+Brønd, J. C., Aadland, E., Andersen, L. B., Resaland, G. K., Andersen, S. A., & Arvidsson, D. (2019). The ActiGraph counts processing and the assessment of vigorous activity. Clinical Physiology and Functional Imaging, 39(4), 276-283. https://doi.org/10.1111/cpf.12571 [Link to Paper](https://github.com/clevengerkimberly/AccelerometerRepository/blob/5456c782169d691b95cf3ef049855e8b5aeee3a7/Br%C3%B8nd2019/Brond.pdf)
 
 
 
