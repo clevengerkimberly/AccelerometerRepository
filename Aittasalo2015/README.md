@@ -27,7 +27,9 @@ This model is in Phase 1 and 2. ![image](https://github.com/clevengerkimberly/Ac
 
 ---
 ## Instructions
-Calculate MAD (mg) as the mean distance of data points about the mean where n is the number of samples in the epoch, ri is the ith resultant sample within the epoch and r(bar) is the mean resultant value of the epoch (see formula).![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/771155935d57b7a009069a7a4964c9fbfe12fa95/Aittasalo2015/aitt.png) 
+Calculate MAD (mg) as the mean distance of data points about the mean where n is the number of samples in the epoch, ri is the ith resultant sample within the epoch and r(bar) is the mean resultant value of the epoch (see formula).
+
+![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/771155935d57b7a009069a7a4964c9fbfe12fa95/Aittasalo2015/aitt.png) 
 
 This can also be done in R using a package like acc or GGIR. In this paper, they used an epoch of 5.1 s (Hookie) or 4.3 s (ActiGraph).
 Each epoch can they be classified using the cut-points, which are provided separately for the ActiGraph and Hookie monitors.
@@ -42,7 +44,7 @@ Each epoch can they be classified using the cut-points, which are provided separ
 ---
 ## Source Information
 #### *Reference*
-Aittasalo, M., Vähä-Ypyä, H., Vasankari, T., Husu, P., Jussila, A. M., & Sievänen, H. (2015). Mean amplitude deviation calculated from raw acceleration data: a novel method for classifying the intensity of adolescents’ physical activity irrespective of accelerometer brand. BMC Sports Science, Medicine and Rehabilitation, 7(1), 1-7. https://doi.org/10.1186/s13102-015-0010-0 Link to paper
+Aittasalo, M., Vähä-Ypyä, H., Vasankari, T., Husu, P., Jussila, A. M., & Sievänen, H. (2015). Mean amplitude deviation calculated from raw acceleration data: a novel method for classifying the intensity of adolescents’ physical activity irrespective of accelerometer brand. BMC Sports Science, Medicine and Rehabilitation, 7(1), 1-7. https://doi.org/10.1186/s13102-015-0010-0 [Link to paper](https://github.com/clevengerkimberly/AccelerometerRepository/blob/dbb0091ce550ae0273b67e57837cd297cae21a66/Aittasalo2015/Aittasalo2015.pdf)
 
 
 #### *Corresponding author*
