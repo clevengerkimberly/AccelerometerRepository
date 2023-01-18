@@ -27,21 +27,16 @@ This model is in Phase 1 and 2. ![image](https://github.com/clevengerkimberly/Ac
 
 ---
 ## Instructions
-Calculate MAD (mg) as the mean distance of data points about the mean where n is the number of samples in the epoch, ri is the ith resultant sample within the epoch and r(bar) is the mean resultant value of the epoch (see formula to the right). This can also be done in R using a package like acc or GGIR. In this paper, they used an epoch of 5.1 s (Hookie) or 4.3 s (ActiGraph).
+Calculate MAD (mg) as the mean distance of data points about the mean where n is the number of samples in the epoch, ri is the ith resultant sample within the epoch and r(bar) is the mean resultant value of the epoch (see formula).![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/771155935d57b7a009069a7a4964c9fbfe12fa95/Aittasalo2015/aitt.png) 
+
+This can also be done in R using a package like acc or GGIR. In this paper, they used an epoch of 5.1 s (Hookie) or 4.3 s (ActiGraph).
 Each epoch can they be classified using the cut-points, which are provided separately for the ActiGraph and Hookie monitors.
 
-
----
-## Attached Files
-Download all files as a [.zip]() or download individual files below.
-
-* [Code]()
-* [Example data]()
-* [Data dictionary]()
-* [Model]()
-
-
-**Note**: Compared to the original source, code and data dictionary were edited for consistency, example data were added, models were unchanged
+|ActiGraph	| Hookie|
+|---|---|
+|Cut 1 (sedentary-to-light)	|26.9	|28.7|
+|Cut 2 (moderate)	|332.0	|338.0|
+|Cut 3 (vigorous)|	558.3	|603.8|
 
 
 ---
