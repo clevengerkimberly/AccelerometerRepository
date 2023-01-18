@@ -25,8 +25,8 @@ The following models are available. Root Mean Square Error (RMSE) is also provid
 
 ---
 ## Phase Designation
-[What's this?]()
-This model is in phase 2 and 3.
+[What's this?](https://github.com/clevengerkimberly/AccelerometerRepository/blob/a76916ebe2a6002b20cdc6ef39c889d62ce9d6ae/phase%20_images/phase.md)
+This model is in phase 2 and 3.![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/0cb5f3ab8b5857ac285220d865cad6286cba1164/phase%20_images/Phase23.JPG)
 
 ---
 ## Instructions
