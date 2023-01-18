@@ -21,7 +21,7 @@ The following models are available. Root Mean Square Error (RMSE) is also provid
 | *Activities*  | 20-min of free-play |
 | *Criterion* | MetaMax 3b (VO2) |
 | *Accelerometer(s)* | ActiGraph GT3X+ on hip or non-dominant wrist |
-
+| *Accelerometer(s)* | Holdout of 10 participants|
 
 ---
 ## Phase Designation
