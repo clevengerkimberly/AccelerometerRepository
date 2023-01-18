@@ -1,6 +1,8 @@
 # AccelerometerRepository
 The goal of this repository is to make novel methods for estimating physical activity or energy expenditure from accelerometer data easier to find and more accessible to researchers.
+[Click here](https://github.com/clevengerkimberly/AccelerometerRepository/wiki) to find a model by population, device brand, or wear location or see the full list of included models.
 
+## Background
 We recently conducted a [scoping review](https://doi.org/10.1088/1361-6579/ac89ca) to identify novel methods for estimating physical activity or energy expenditure from accelerometer data. Unfortunately, we found that over half of the methods had never been used after publication which made sense because **less than half of the methods found in our review were actually made available to other researchers** (e.g., as code or equations within the paper). We made this repository to increase accessibility and further development of these novel methods.
 
 ## What is a 'novel' method?
