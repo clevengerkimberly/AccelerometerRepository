@@ -30,12 +30,12 @@ This model is in Phase2.
 ---
 ## Instructions
 Acceleration (g) was summarized by applying a fourth-order band-pass frequency filter to each acceleration axis (0.1–15 Hz), following which the vector magnitude was calculated (square root of the sum of the squared acceleration in each axis). Then, the following activity-specific regression equations are used to calculate activity energy expenditure. Weight is the participant's body weight (kg).
-![image]()
+![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/002873d6d51a16cc2d72f41ec616ba9798fb5c14/Brandes2012/brandes.JPG)
 
 ---
 ## Source Information
 #### *Reference*
-Brandes, M., VT, V. H., HannöVer, V., & Brage, S. (2012). Estimating energy expenditure from raw accelerometry in three types of locomotion. Medicine and Science in Sports and Exercise, 44(11), 2235-2242. https://doi.org/10.1249/MSS.0b013e318260402b [Link to paper]()
+Brandes, M., VT, V. H., HannöVer, V., & Brage, S. (2012). Estimating energy expenditure from raw accelerometry in three types of locomotion. Medicine and Science in Sports and Exercise, 44(11), 2235-2242. https://doi.org/10.1249/MSS.0b013e318260402b [Link to paper](https://github.com/clevengerkimberly/AccelerometerRepository/blob/002873d6d51a16cc2d72f41ec616ba9798fb5c14/Brandes2012/Brandes2013.pdf)
 
 
 #### *Corresponding author*
