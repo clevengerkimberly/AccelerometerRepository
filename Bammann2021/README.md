@@ -29,12 +29,12 @@ This model is in Phase 1.
 ---
 ## Instructions
 ENMO per 1-sec is calculated as square root of the sum of the squared acceleration in each axis, minus one, with negative values rounded up to zero. Below are the developed cut-points. You can also use the R package GGIR to calculate ENMO and apply these cut-points. 
-
+![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/c3d8b354db7364e55ad70219bc840c3bc8b718d6/Bammann2021/Bamman.PNG)
 
 ---
 ## Source Information
 #### *Reference*
-Bammann, K., Thomson, N. K., Albrecht, B. M., Buchan, D. S., & Easton, C. (2021). Generation and validation of ActiGraph GT3X+ accelerometer cut-points for assessing physical activity intensity in older adults. The OUTDOOR ACTIVE validation study. PloS one, 16(6), e0252615. https://doi.org/10.1371/journal.pone.0252615 Link to paper
+Bammann, K., Thomson, N. K., Albrecht, B. M., Buchan, D. S., & Easton, C. (2021). Generation and validation of ActiGraph GT3X+ accelerometer cut-points for assessing physical activity intensity in older adults. The OUTDOOR ACTIVE validation study. PloS one, 16(6), e0252615. https://doi.org/10.1371/journal.pone.0252615 [Link to paper](https://github.com/clevengerkimberly/AccelerometerRepository/blob/c3d8b354db7364e55ad70219bc840c3bc8b718d6/Bammann2021/Bammann.pdf)
 
 
 #### *Corresponding author*
