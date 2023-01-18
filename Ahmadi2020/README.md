@@ -30,21 +30,19 @@ This model is in phase 2 and 3.![image](https://github.com/clevengerkimberly/Acc
 
 ---
 ## Instructions
-The [R code]() can be used to read in a 'csv' file with the necessary features and then use the chosen model to predict energy expenditure in kcals/min for each 10-sec window. There is a separate file for each of the four models- the [wrist random forest](), [wrist support vector machine](), [hip artificial neural network](), and [hip random forest](). For both the [hip]() and [wrist]() there is an example data sheet with the variables described in the [data dictionary]() that need to be present in the csv file. Further instructions are in the [R code](). More information about R is found [here]().
+The [R code](https://github.com/clevengerkimberly/AccelerometerRepository/blob/f8362c18a512e68ff0c6c1413585f7016cc3bcc2/Ahmadi2020/code.R) can be used to read in a 'csv' file with the necessary features and then use the chosen model to predict energy expenditure in kcals/min for each 10-sec window. There is a separate file for each of the four models- the [wrist random forest](https://github.com/clevengerkimberly/AccelerometerRepository/blob/f8362c18a512e68ff0c6c1413585f7016cc3bcc2/Ahmadi2020/wrist_rf.RData), [wrist support vector machine](https://github.com/clevengerkimberly/AccelerometerRepository/blob/f8362c18a512e68ff0c6c1413585f7016cc3bcc2/Ahmadi2020/wrist_svm.RData), [hip artificial neural network](https://github.com/clevengerkimberly/AccelerometerRepository/blob/f8362c18a512e68ff0c6c1413585f7016cc3bcc2/Ahmadi2020/hip_ann.RData), and [hip random forest](https://github.com/clevengerkimberly/AccelerometerRepository/blob/f8362c18a512e68ff0c6c1413585f7016cc3bcc2/Ahmadi2020/hip_rf.RData). For both the [hip](https://github.com/clevengerkimberly/AccelerometerRepository/blob/f8362c18a512e68ff0c6c1413585f7016cc3bcc2/Ahmadi2020/example_hip_data.csv) and [wrist](https://github.com/clevengerkimberly/AccelerometerRepository/blob/f8362c18a512e68ff0c6c1413585f7016cc3bcc2/Ahmadi2020/example_wrist_data.csv) there is an example data sheet with the variables described in the [data dictionary](https://github.com/clevengerkimberly/AccelerometerRepository/blob/f8362c18a512e68ff0c6c1413585f7016cc3bcc2/Ahmadi2020/datadictionary.xlsx) that need to be present in the csv file. Further instructions are in the [R code](https://github.com/clevengerkimberly/AccelerometerRepository/blob/f8362c18a512e68ff0c6c1413585f7016cc3bcc2/Ahmadi2020/code.R). 
 This code relies on R software which can be downloaded for free at https://www.r-project.org/
 
 ---
 ## Attached Files
-Download all files as a [.zip]() or download individual files below.
-
-* [Code]()
-* [Example hip data]()
-* [Example wrist data]()
-* [Data dictionary]()
-* [Wrist random forest]()
-* [Wrist support vector machine]()
-* [Hip artificial neural network]()
-* [Hip random forest]()
+* [Code](https://github.com/clevengerkimberly/AccelerometerRepository/blob/f8362c18a512e68ff0c6c1413585f7016cc3bcc2/Ahmadi2020/code.R)
+* [Example hip data](https://github.com/clevengerkimberly/AccelerometerRepository/blob/f8362c18a512e68ff0c6c1413585f7016cc3bcc2/Ahmadi2020/example_hip_data.csv)
+* [Example wrist data](https://github.com/clevengerkimberly/AccelerometerRepository/blob/f8362c18a512e68ff0c6c1413585f7016cc3bcc2/Ahmadi2020/example_wrist_data.csv)
+* [Data dictionary](https://github.com/clevengerkimberly/AccelerometerRepository/blob/f8362c18a512e68ff0c6c1413585f7016cc3bcc2/Ahmadi2020/datadictionary.xlsx)
+* [Wrist random forest](https://github.com/clevengerkimberly/AccelerometerRepository/blob/f8362c18a512e68ff0c6c1413585f7016cc3bcc2/Ahmadi2020/wrist_rf.RData)
+* [Wrist support vector machine](https://github.com/clevengerkimberly/AccelerometerRepository/blob/f8362c18a512e68ff0c6c1413585f7016cc3bcc2/Ahmadi2020/wrist_svm.RData)
+* [Hip artificial neural network](https://github.com/clevengerkimberly/AccelerometerRepository/blob/f8362c18a512e68ff0c6c1413585f7016cc3bcc2/Ahmadi2020/hip_ann.RData)
+* [Hip random forest](https://github.com/clevengerkimberly/AccelerometerRepository/blob/f8362c18a512e68ff0c6c1413585f7016cc3bcc2/Ahmadi2020/hip_rf.RData)
 
 
 
@@ -54,7 +52,7 @@ Download all files as a [.zip]() or download individual files below.
 ---
 ## Source Information
 #### *Reference*
-Ahmadi MN, Chowdhury A, Pavey T,Trost SG (2020) Laboratory-based and free-living algorithms for energy expenditure estimation in preschool children: A free-living evaluation. PLoS One 15(5): e0233229. https://doi.org/10.1371/journal.pone.0233229 [Link to paper]()
+Ahmadi MN, Chowdhury A, Pavey T,Trost SG (2020) Laboratory-based and free-living algorithms for energy expenditure estimation in preschool children: A free-living evaluation. PLoS One 15(5): e0233229. https://doi.org/10.1371/journal.pone.0233229 [Link to paper](https://github.com/clevengerkimberly/AccelerometerRepository/blob/f8362c18a512e68ff0c6c1413585f7016cc3bcc2/Ahmadi2020/Ahmadi.pdf)
 
 #### *Original source for code*
 https://github.com/MA-QUT/Preschool_EE_Models_PLOS_One
