@@ -1,5 +1,5 @@
-# Article title
-### Author last name YEAR
+#  Mean amplitude deviation calculated from raw acceleration data: a novel method for classifying the intensity of adolescents’ physical activity irrespective of accelerometer brand
+### Aittasalo 2015
 ---
 
 ## Description
