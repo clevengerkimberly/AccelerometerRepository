@@ -28,18 +28,16 @@ This model is in Phase 1.
 
 ---
 ## Instructions
-The [R code]() can be used to load the R package that reads in a csv file (in one of two formats), calculates sigma (an intermediary needed for further calculations), then calculates Activity Index in the user-specified epoch.
+The [R code](https://github.com/clevengerkimberly/AccelerometerRepository/blob/13982e2fe8a1a57e37a0eb8ebf3bdc801acf6b3b/Bai2016/code.R) can be used to load the R package that reads in a csv file (in one of two formats), calculates sigma (an intermediary needed for further calculations), then calculates Activity Index in the user-specified epoch.
  
-There are two example data sheets- [one]() is raw acceleration in each axis with no headers. The [other]() is raw acceleration in the format exported by ActiLife- with 10 rows of header information. Further instructions are in the [R code]().
+There are two example data sheets- [one](https://github.com/clevengerkimberly/AccelerometerRepository/blob/13982e2fe8a1a57e37a0eb8ebf3bdc801acf6b3b/Bai2016/sample_data.csv) is raw acceleration in each axis with no headers. The [other](https://github.com/clevengerkimberly/AccelerometerRepository/blob/13982e2fe8a1a57e37a0eb8ebf3bdc801acf6b3b/Bai2016/sample_data_2.csv) is raw acceleration in the format exported by ActiLife- with 10 rows of header information. Further instructions are in the [R code](https://github.com/clevengerkimberly/AccelerometerRepository/blob/13982e2fe8a1a57e37a0eb8ebf3bdc801acf6b3b/Bai2016/code.R).
 This code relies on R software which can be downloaded for free at https://www.r-project.org/
 
 ---
 ## Attached Files
-Download all files as a [.zip]() or download individual files below.
-
-* [Code]()
-* Example data with headers
-* Example data no headers
+* [Code](https://github.com/clevengerkimberly/AccelerometerRepository/blob/13982e2fe8a1a57e37a0eb8ebf3bdc801acf6b3b/Bai2016/code.R)
+* [Example data with headers](https://github.com/clevengerkimberly/AccelerometerRepository/blob/13982e2fe8a1a57e37a0eb8ebf3bdc801acf6b3b/Bai2016/sample_data_2.csv)
+* [Example data no headers](https://github.com/clevengerkimberly/AccelerometerRepository/blob/13982e2fe8a1a57e37a0eb8ebf3bdc801acf6b3b/Bai2016/sample_data.csv)
 
 
 **Note**: Compared to the original source, code and data dictionary were edited for consistency, example data were added, models were unchanged
@@ -48,7 +46,7 @@ Download all files as a [.zip]() or download individual files below.
 ---
 ## Source Information
 #### *Reference*
-Bai J, Di C, Xiao L, Evenson KR, LaCroix AZ, Crainiceanu CM, et al. (2016) An Activity Index for Raw Accelerometry Data and its Comparison with Other Activity Metrics. PLoS ONE 11(8): e0160644. http://doi.org/10.1371/journal.pone.0160644 [Link to paper]()
+Bai J, Di C, Xiao L, Evenson KR, LaCroix AZ, Crainiceanu CM, et al. (2016) An Activity Index for Raw Accelerometry Data and its Comparison with Other Activity Metrics. PLoS ONE 11(8): e0160644. http://doi.org/10.1371/journal.pone.0160644 [Link to paper](https://github.com/clevengerkimberly/AccelerometerRepository/blob/13982e2fe8a1a57e37a0eb8ebf3bdc801acf6b3b/Bai2016/Bai2016.PDF)
 
 
 #### *Original source for code*
