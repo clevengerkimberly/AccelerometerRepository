@@ -1,4 +1,4 @@
-# Accelerometry combined with heart rate telemetry in the assessment of total energy expenditure
+# Accelerometry combined with heart rate telemetry in the assessment of total energy expenditure
 ### Johansson 2006
 ---
 
