@@ -12,18 +12,14 @@ Linear regression to predict METS and cut-points to classify activity intensity 
 
 |  |  |
 | ------------- | ------------- |
-| *Sample*  | |
-| *Setting*  | |
-| *Activities*  |   |
-| *Criterion* |   |
-| *Accelerometer(s)* |   |
-| *Validation approach* |   |
-Sample: 199 older women, 60-91 years of age
-Setting: Laboratory
-Activities: Activities of daily living, overground walking, stationary
-Criterion: Oxycon Mobile (VO2) 
-Accelerometer(s): ActiGraph GT3X+ on right hip
-Validation approach: Five-fold cross-validation
+| *Sample*  |199 older women, 60-91 years of age |
+| *Setting*  |Laboratory |
+| *Activities*  |Activities of daily living, overground walking, stationary   |
+| *Criterion* |Oxycon Mobile (VO2)    |
+| *Accelerometer(s)* |ActiGraph GT3X+ on right hip   |
+| *Validation approach* |Five-fold cross-validation   |
+
+
 
 ---
 ## Phase Designation
