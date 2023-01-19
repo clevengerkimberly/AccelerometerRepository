@@ -1,0 +1,73 @@
+variable,definition
+AL_Hip_X_pTen,tenth percentile of acceleration in x-axis for hip monitor
+AL_Hip_X_pTwentyFive,twenty fifth percentile of acceleration in x-axis for hip monitor
+AL_Hip_X_pFifty,fiftieth percentile of acceleration in x-axis for hip monitor
+AL_Hip_X_pSeventyFive,seventy fifth percentile of acceleration in x-axis for hip monitor
+AL_Hip_X_pNinety,ninetieth percentile of acceleration in x-axis for hip monitor
+AL_Hip_X_cov,covariance of acceleration in x-axis for hip monitor
+AL_Hip_Y_pTen,tenth percentile of acceleration in y-axis for hip monitor
+AL_Hip_Y_pTwentyFive,twenty fifth percentile of acceleration in y-axis for hip monitor
+AL_Hip_Y_pFifty,fiftieth percentile of acceleration in y-axis for hip monitor
+AL_Hip_Y_pSeventyFive,seventy fifth percentile of acceleration in y-axis for hip monitor
+AL_Hip_Y_pNinety,ninetieth percentile of acceleration in y-axis for hip monitor
+AL_Hip_Y_cov,covariance of acceleration in y-axis for hip monitor
+AL_Hip_Z_pTen,tenth percentile of acceleration in z-axis for hip monitor
+AL_Hip_Z_pTwentyFive,twenty fifth percentile of acceleration in z-axis for hip monitor
+AL_Hip_Z_pFifty,fiftieth percentile of acceleration in z-axis for hip monitor
+AL_Hip_Z_pSeventyFive,seventy fifth percentile of acceleration in z-axis for hip monitor
+AL_Hip_Z_pNinety,ninetieth percentile of acceleration in z-axis for hip monitor
+AL_Hip_Z_cov,covariance of acceleration in z-axis for hip monitor
+AL_LW_X_pTen,tenth percentile of acceleration in x-axis for left wrist monitor
+AL_LW_X_pTwentyFive,twenty fifth percentile of acceleration in x-axis for left wrist monitor
+AL_LW_X_pFifty,fiftieth percentile of acceleration in x-axis for left wrist monitor
+AL_LW_X_pSeventyFive,seventy fifth percentile of acceleration in x-axis for left wrist monitor
+AL_LW_X_pNinety,ninetieth percentile of acceleration in x-axis for left wrist monitor
+AL_LW_X_cov,covariance of acceleration in x-axis for left wrist monitor
+AL_LW_Y_pTen,tenth percentile of acceleration in y-axis for left wrist monitor
+AL_LW_Y_pTwentyFive,twenty fifth percentile of acceleration in y-axis for left wrist monitor
+AL_LW_Y_pFifty,fiftieth percentile of acceleration in y-axis for left wrist monitor
+AL_LW_Y_pSeventyFive,seventy fifth percentile of acceleration in y-axis for left wrist monitor
+AL_LW_Y_pNinety,ninetieth percentile of acceleration in y-axis for left wrist monitor
+AL_LW_Y_cov,covariance of acceleration in y-axis for left wrist monitor
+AL_LW_Z_pTen,tenth percentile of acceleration in z-axis for left wrist monitor
+AL_LW_Z_pTwentyFive,twenty fifth percentile of acceleration in z-axis for left wrist monitor
+AL_LW_Z_pFifty,fiftieth percentile of acceleration in z-axis for left wrist monitor
+AL_LW_Z_pSeventyFive,seventy fifth percentile of acceleration in z-axis for left wrist monitor
+AL_LW_Z_pNinety,ninetieth percentile of acceleration in z-axis for left wrist monitor
+AL_LW_Z_cov,covariance of acceleration in z-axis for left wrist monitor
+AL_RW_X_pTen,tenth percentile of acceleration in x-axis for right wrist monitor
+AL_RW_X_pTwentyFive,twenty fifth percentile of acceleration in x-axis for right wrist monitor
+AL_RW_X_pFifty,fiftieth percentile of acceleration in x-axis for right wrist monitor
+AL_RW_X_pSeventyFive,seventy fifth percentile of acceleration in x-axis for right wrist monitor
+AL_RW_X_pNinety,ninetieth percentile of acceleration in x-axis for right wrist monitor
+AL_RW_X_cov,covariance of acceleration in x-axis for right wrist monitor
+AL_RW_Y_pTen,tenth percentile of acceleration in y-axis for right wrist monitor
+AL_RW_Y_pTwentyFive,twenty fifth percentile of acceleration in y-axis for right wrist monitor
+AL_RW_Y_pFifty,fiftieth percentile of acceleration in y-axis for right wrist monitor
+AL_RW_Y_pSeventyFive,seventy fifth percentile of acceleration in y-axis for right wrist monitor
+AL_RW_Y_pNinety,ninetieth percentile of acceleration in y-axis for right wrist monitor
+AL_RW_Y_cov,covariance of acceleration in y-axis for right wrist monitor
+AL_RW_Z_pTen,tenth percentile of acceleration in z-axis for right wrist monitor
+AL_RW_Z_pTwentyFive,twenty fifth percentile of acceleration in z-axis for right wrist monitor
+AL_RW_Z_pFifty,fiftieth percentile of acceleration in z-axis for right wrist monitor
+AL_RW_Z_pSeventyFive,seventy fifth percentile of acceleration in z-axis for right wrist monitor
+AL_RW_Z_pNinety,ninetieth percentile of acceleration in z-axis for right wrist monitor
+AL_RW_Z_cov,covariance of acceleration in z-axis for right wrist monitor
+AL_Ank_X_pTen,tenth percentile of acceleration in x-axis for ankle monitor
+AL_Ank_X_pTwentyFive,twenty fifth percentile of acceleration in x-axis for ankle monitor
+AL_Ank_X_pFifty,fiftieth percentile of acceleration in x-axis for ankle monitor
+AL_Ank_X_pSeventyFive,seventy fifth percentile of acceleration in x-axis for ankle monitor
+AL_Ank_X_pNinety,ninetieth percentile of acceleration in x-axis for ankle monitor
+AL_Ank_X_cov,covariance of acceleration in x-axis for ankle monitor
+AL_Ank_Y_pTen,tenth percentile of acceleration in y-axis for ankle monitor
+AL_Ank_Y_pTwentyFive,twenty fifth percentile of acceleration in y-axis for ankle monitor
+AL_Ank_Y_pFifty,fiftieth percentile of acceleration in y-axis for ankle monitor
+AL_Ank_Y_pSeventyFive,seventy fifth percentile of acceleration in y-axis for ankle monitor
+AL_Ank_Y_pNinety,ninetieth percentile of acceleration in y-axis for ankle monitor
+AL_Ank_Y_cov,covariance of acceleration in y-axis for ankle monitor
+AL_Ank_Z_pTen,tenth percentile of acceleration in z-axis for ankle monitor
+AL_Ank_Z_pTwentyFive,twenty fifth percentile of acceleration in z-axis for ankle monitor
+AL_Ank_Z_pFifty,fiftieth percentile of acceleration in z-axis for ankle monitor
+AL_Ank_Z_pSeventyFive,seventy fifth percentile of acceleration in z-axis for ankle monitor
+AL_Ank_Z_pNinety,ninetieth percentile of acceleration in z-axis for ankle monitor
+AL_Ank_Z_cov,covariance of acceleration in z-axis for ankle monitor
