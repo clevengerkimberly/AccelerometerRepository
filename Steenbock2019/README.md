@@ -37,18 +37,14 @@ The following models are available. Root Mean Square Error (RMSE) is also provid
 
 |  |  |
 | ------------- | ------------- |
-| *Sample*  | |
-| *Setting*  | |
-| *Activities*  |   |
-| *Criterion* |   |
-| *Accelerometer(s)* |   |
-| *Validation approach* |   |
-Sample: 41 (22 males) healthy children, 3.0-6.3 years of age
-Setting: School
-Activities: Free-choice, games, overground/self-paced walking and running, stationary
-Criterion: MetaMax 3b (VO2)
-Accelerometer(s): ActiGraph right hip, ActiGraph left hip, GENEActiv right hip, GENEActiv right wrist, GENEActiv left wrist, ActivPal right thigh (models are for one location/monitor so not all needed)
-Validation approach: Leave-one-out cross-validation
+| *Sample*  |41 (22 males) healthy children, 3.0-6.3 years of age |
+| *Setting*  |School |
+| *Activities*  |Free-choice, games, overground/self-paced walking and running, stationary   |
+| *Criterion* |MetaMax 3b (VO2)   |
+| *Accelerometer(s)* |ActiGraph right hip, ActiGraph left hip, GENEActiv right hip, GENEActiv right wrist, GENEActiv left wrist, ActivPal right thigh (models are for one location/monitor so not all needed)   |
+| *Validation approach* |Leave-one-out cross-validation   |
+
+
 
 ---
 ## Phase Designation
@@ -58,17 +54,40 @@ This model is in Phase 0, 2 and 4.
 
 ---
 ## Instructions
-The [R code]() can be used to read in a csv file with the necessary variables (as described in the [data dictionary]() and seen in the [sample data]()). The chosen model can then be used to predict energy expenditure. The authors also provide some code for [extracting features](). Further instructions are in the [R code](). 
+The [R code](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/code.R) can be used to read in a csv file with the necessary variables (as described in the [data dictionary](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/datadictionary.xlsx) and seen in the [sample data](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/sampledata.csv)). The chosen model can then be used to predict energy expenditure. The authors also provide some code for [extracting features](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/example_convert_data.R). Further instructions are in the [R code](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/code.R). 
 This code relies on R software which can be downloaded for free at https://www.r-project.org/
 
 
 ---
 ## Attached Files
-* [Code]()
-* [Example data]()
-* [Data dictionary]()
-* [Model]()
-
+* [Code](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/code.R)
+* [Example data](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/sampledata.csv)
+* [Data dictionary](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/datadictionary.xlsx)
+* [Data conversion code (not edited/used by repository)](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/example_convert_data.R)
+* [ActiGraph artificial neural network right hip](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/nn_actigraph_right_METs_30s.Rds)
+* [ActiGraph Linear model right hip](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/lm_actigraph_right_METs_30s.Rds)
+* [ActiGraph Mixed linear model right hip](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/,lm_actigraph_right_METs_30s.Rds)
+* [ActiGraph Random forest for ActiGraph right hip](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/rf_actigraph_right_METs_30s.Rds)
+* [ActiGraph Artificial neural network for ActiGraph left hip](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/nn_actigraph_left_METs_30s.Rds)
+* [ActiGraph Linear model for ActiGraph left hip](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/lm_actigraph_right_METs_30s.Rds)
+* [ActiGraph Mixed linear model for ActiGraph left hip](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/,lm_actigraph_right_METs_30s.Rds)
+* [ActiGraph Random forest for ActiGraph left hip](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/rf_actigraph_right_METs_30s.Rds)
+* [GENEActiv Artificial neural network for GENEActiv right hip](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/nn_geneactiv_hip_right_METs_30s.Rds)
+* [GENEActiv Linear model for GENEActiv right hip](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/lm_geneactiv_hip_right_METs_30s.Rds)
+* [GENEActiv Mixed linear model for GENEActiv right hip](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/mlm_geneactiv_hip_right_METs_30s.Rds)
+* [GENEActiv Random forest for GENEActiv right hip](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/rf_geneactiv_hip_right_METs_30s.Rds)
+* [GENEActiv Artificial neural network for GENEActiv right wrist](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/nn_geneactiv_wrist_right_METs_30s.Rds)
+* [GENEActiv Linear model for GENEActiv right wrist](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/lm_geneactiv_wrist_right_METs_30s.Rds)
+* [GENEActiv Mixed linear model for GENEActiv right wrist](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/mlm_geneactiv_wrist_right_METs_30s.Rds)
+* [GENEActiv Random forest for GENEActiv right wrist](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/rf_geneactiv_wrist_right_METs_30s.Rds)
+* [GENEActiv Artificial neural network for GENEActiv left wrist](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/nn_geneactiv_wrist_left_METs_30s.Rds)
+* [GENEActiv Linear model for GENEActiv left wrist](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/lm_geneactiv_wrist_left_METs_30s.Rds)
+* [GENEActiv Mixed linear model for GENEActiv left wrist](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/mlm_geneactiv_wrist_left_METs_30s.Rds)
+* [GENEActiv Random forest for GENEActiv left wrist](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/rf_geneactiv_wrist_left_METs_30s.Rds)
+* [ActivPal Artificial neural network for ActivPal right thigh](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/nn_activpal_METs_30s.Rds)
+* [ActivPal Linear model for ActivPal right thigh](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/lm_activpal_METs_30s.Rds)
+* [ActivPal Mixed linear model for ActivPal right thigh](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/mlm_activpal_METs_30s.Rds)
+* [ActivPal Random forest for ActivPal right thigh](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Steenbock2019/rf_activpal_METs_30s.Rds)
 
 **Note**: Compared to the original source, code and data dictionary were edited for consistency, example data were added, models were unchanged
 
