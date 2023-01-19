@@ -29,26 +29,22 @@ This model is in Phase 1 and 3.
 
 ---
 ## Instructions
-Instructions.
+The heart rate cut-off (COHR) needs to be calculated for each individual as the average between the lowest working heart rate (walking at 2 km/h) and the highest heart rate during rest (standing or sitting) plus 10 beats/min. If heart rate is above the COHR, then the ‘EQHR’ equation is used. If heart rate is below COHR, then accelerometer counts/min is used to determine which equation to use. If counts are equal to 0, then energy expenditure is equal to resting metabolic rate. If counts are from 0 to 200, then ‘EQACC1’ is used, while ‘EQACC2’ is used when counts are over 200.
+The relationship between heart rate and oxygen consumption and accelerometer counts and oxygen consumption needs to be established to determine slope parameters for each participant. To establish this relationship, participants performed sitting, standing, walking at 2, 4 and 6 km/h, and running at 10 km/h for 4 min each and an incremental maximal aerobic capacity test on the treadmill.
+The total energy expenditure formula can be used to combine total time (TT) from each of the other equations and account for the thermic effect of food.
 
----
-## Attached Files
-* [Code]()
-* [Example data]()
-* [Data dictionary]()
-* [Model]()
-
-
-**Note**: Compared to the original source, code and data dictionary were edited for consistency, example data were added, models were unchanged
+![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Johansson2006/Johansson.JPG)
+![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Johansson2006/JohanssonEQHR.JPG)
+![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Johansson2006/JohanssonACC1.JPG)
+![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Johansson2006/JohanssonACC2.JPG)
+![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Johansson2006/JohanssonTEE.JPG)
 
 
 ---
 ## Source Information
 #### *Reference*
-
-
-#### *Original source for code*
-
-
+Johansson, H. P., Rossander-Hulthén, L., Slinde, F., & Ekblom, B. (2006). Accelerometry combined with heart rate telemetry in the assessment of total energy expenditure. British Journal of Nutrition, 95(3), 631-639. https://doi.org/10.1079/BJN20051527 [Link to Paper](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Johansson2006/Johansson2006.pdf)
+ 
 
 #### *Corresponding author*
+Patrik Johansson, Patrik.Johansson@gih.se
