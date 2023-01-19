@@ -1,4 +1,4 @@
-# Development and validation of energy expenditure prediction models based on GT3X accelerometer data in 5-to 9-year-old children
+# Development and validation of energy expenditure prediction models based on GT3X accelerometer data in 5-to 9-year-old children
 ### Jimmy 2013
 ---
 
