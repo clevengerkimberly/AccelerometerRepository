@@ -30,6 +30,7 @@ This model is in Phase 0 and 2.
 ---
 ## Instructions
 Coefficients and equations for total energy expenditure (TEE), physical activity energy expenditure (PAEE), and METs are provided below for different combinations of monitors (hip + wrist + ankle, hip + wrist, hip, wrist, ankle). The following description of model notation is provided. ‘gender’ is coded as 0 for females and 1 for males. 
+
 ![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/904d98a18728bc61fe48a822a2c601891ceb3f65/Choi2010/choidesc.JPG)
 
 ### TEE coefficients and equations
