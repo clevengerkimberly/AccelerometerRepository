@@ -1,4 +1,4 @@
-# Investigating optimal accelerometer placement for energy expenditure prediction in children using a machine learning approach
+# Investigating optimal accelerometer placement for energy expenditure prediction in children using a machine learning approach
 ### Mackintosh 2016
 ---
 
