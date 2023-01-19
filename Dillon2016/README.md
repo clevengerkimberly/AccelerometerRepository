@@ -31,11 +31,14 @@ This model is in Phase 1.
 ## Instructions
 SVM is calculated using the equation below as the square root of the sum of the squared acceleration in each axis, minus gravity, summed over the 15-sec epoch. However, as noted in the R package [GGIR](https://cran.r-project.org/web/packages/GGIR/vignettes/CutPoints.html), both sets of cut-points would be sensitive to sampling rate (30 and 100 Hz in the original study), so they provide a scaled version which can be applied to any raw acceleration data.
 
+![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Dillon2016/dillonsvm.png)
+
+![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Dillon2016/dillon.png)
 
 ---
 ## Source Information
 #### *Reference*
-Dillon, C. B., Fitzgerald, A. P., Kearney, P. M., Perry, I. J., Rennie, K. L., Kozarski, R., & Phillips, C. M. (2016). Number of days required to estimate habitual activity using wrist-worn GENEActiv accelerometer: a cross-sectional study. PloS one, 11(5), e0109913. https://doi.org/10.1371%2Fjournal.pone.0109913 [Link to Paper]()
+Dillon, C. B., Fitzgerald, A. P., Kearney, P. M., Perry, I. J., Rennie, K. L., Kozarski, R., & Phillips, C. M. (2016). Number of days required to estimate habitual activity using wrist-worn GENEActiv accelerometer: a cross-sectional study. PloS one, 11(5), e0109913. https://doi.org/10.1371%2Fjournal.pone.0109913 [Link to Paper](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Dillon2016/dillon.pdf)
 
 
 
