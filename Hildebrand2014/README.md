@@ -1,4 +1,4 @@
-# Age group comparability of raw accelerometer output from wrist-and hip-worn monitors
+# Age group comparability of raw accelerometer output from wrist-and hip-worn monitors
 ### Hildebrand 2014
 ---
 
