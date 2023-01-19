@@ -1,0 +1,24 @@
+MeanCounts_RH_y,mean counts in the y-axis for right hip monitor
+MeanCounts_RH_x,mean counts in the x-axis for right hip monitor
+MeanCounts_RH_z,mean counts in the z-axis for right hip monitor
+VarCounts_RH_y,variance in counts in the y-axis for right hip monitor
+VarCounts_RH_x,variance in counts in the x-axis for right hip monitor
+VarCounts_RH_z,variance in counts in the z-axis for right hip monitor
+MeanRaw_RH_x,mean acceleration in the x-axis for the right hip monitor
+VarRaw_RH_x,variance in acceleration in the x-axis for the right hip monitor
+MeanRaw_RH_y,mean acceleration in the y-axis for the right hip monitor
+VarRaw_RH_y,variance in acceleration in the y-axis for the right hip monitor
+MeanRaw_RH_z,mean acceleration in the z-axis for the right hip monitor
+VarRaw_RH_z,variance in acceleration in the z-axis for the right hip monitor
+MeanCounts_LW_y,mean counts in the y-axis for left wrist monitor
+MeanCounts_LW_x,mean counts in the x-axis for left wrist monitor
+MeanCounts_LW_z,mean counts in the z-axis for left wrist monitor
+VarCounts_LW_y,variance in counts in the y-axis for left wrist monitor
+VarCounts_LW_x,variance in counts in the x-axis for left wrist monitor
+VarCounts_LW_z,variance in counts in the z-axis for left wrist monitor
+MeanRaw_LW_x,mean acceleration in the x-axis for the left wrist monitor
+VarRaw_LW_x,variance in acceleration in the x-axis for the left wrist monitor
+MeanRaw_LW_y,mean acceleration in the y-axis for the left wrist monitor
+VarRaw_LW_y,variance in acceleration in the y-axis for the left wrist monitor
+MeanRaw_LW_z,mean acceleration in the z-axis for the left wrist monitor
+VarRaw_LW_z,variance in acceleration in the z-axis for the left wrist monitor
