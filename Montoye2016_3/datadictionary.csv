@@ -1,0 +1,29 @@
+variable,definition
+mean_VM_GE_left,mean vector magnitude acceleration from left wrist-worn GENEActiv
+var_VM_GE_left,variance in vector magnitude acceleration from left wrist-worn GENEActiv
+mean_GE_leftX,mean x-axis acceleration from left wrist-worn GENEActiv
+mean_GE_leftY,mean y-axis acceleration from left wrist-worn GENEActiv
+mean_GE_leftZ,mean z-axis acceleration from left wrist-worn GENEActiv
+Var_GE_leftX,variance in x-axis acceleration from left wrist-worn GENEActiv
+Var_GE_leftY,variance in y-axis acceleration from left wrist-worn GENEActiv
+Var_GE_leftZ,variance in z-axis acceleration from left wrist-worn GENEActiv
+mean_ABS_GE_leftX,mean absolute x-axis acceleration from left wrist-worn GENEActiv
+mean_ABS_GE_leftY,mean absolute y-axis acceleration from left wrist-worn GENEActiv
+mean_ABS_GE_leftZ,mean absolute z-axis acceleration from left wrist-worn GENEActiv
+var_ABS_GE_leftX,variance in absolute x-axis acceleration from left wrist-worn GENEActiv
+var_ABS_GE_leftY,variance in absolute y-axis acceleration from left wrist-worn GENEActiv
+var_ABS_GE_leftZ,variance in absolute z-axis acceleration from left wrist-worn GENEActiv
+mean_VM_GE_right,mean vector magnitude acceleration from right wrist-worn GENEActiv
+var_VM_GE_right,variance in vector magnitude acceleration from right wrist-worn GENEActiv
+mean_GE_rightX,mean x-axis acceleration from right wrist-worn GENEActiv
+mean_GE_rightY,mean y-axis acceleration from right wrist-worn GENEActiv
+mean_GE_rightZ,mean z-axis acceleration from right wrist-worn GENEActiv
+Var_GE_rightX,variance in x-axis acceleration from right wrist-worn GENEActiv
+Var_GE_rightY,variance in y-axis acceleration from right wrist-worn GENEActiv
+Var_GE_rightZ,variance in z-axis acceleration from right wrist-worn GENEActiv
+mean_ABS_GE_rightX,mean absolute x-axis acceleration from right wrist-worn GENEActiv
+mean_ABS_GE_rightY,mean absolute y-axis acceleration from right wrist-worn GENEActiv
+mean_ABS_GE_rightZ,mean absolute z-axis acceleration from right wrist-worn GENEActiv
+var_ABS_GE_rightX,variance in absolute x-axis acceleration from right wrist-worn GENEActiv
+var_ABS_GE_rightY,variance in absolute y-axis acceleration from right wrist-worn GENEActiv
+var_ABS_GE_rightZ,variance in absolute z-axis acceleration from right wrist-worn GENEActiv
