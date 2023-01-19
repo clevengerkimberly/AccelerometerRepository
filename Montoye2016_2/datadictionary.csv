@@ -1,0 +1,61 @@
+variable,definition
+TenPct_AGhipX,tenth percentile of x-axis acceleration for hip ActiGraph
+ TenPct_AGhipY,tenth percentile of y-axis acceleration for hip ActiGraph
+ TenPct_AGhipZ,tenth percentile of z-axis acceleration for hip ActiGraph
+ TwentyFivePct_AGhipX,twenty fifth percentile of x-axis acceleration for hip ActiGraph
+ TwentyFivePct_AGhipY,twenty fifth percentile of y-axis acceleration for hip ActiGraph
+ TwentyFivePct_AGhipZ,twenty fifth percentile of z-axis acceleration for hip ActiGraph
+ FiftyPct_AGhipX,fiftieth percentile of x-axis acceleration for hip ActiGraph
+ FiftyPct_AGhipY,fiftieth percentile of y-axis acceleration for hip ActiGraph
+ FiftyPct_AGhipZ,fiftieth percentile of z-axis acceleration for hip ActiGraph
+ SeventyFivePct_AGhipX,seventy fifth percentile of x-axis acceleration for hip ActiGraph
+ SeventyFivePct_AGhipY,seventy fifth percentile of y-axis acceleration for hip ActiGraph
+ SeventyFivePct_AGhipZ,seventy fifth percentile of z-axis acceleration for hip ActiGraph
+ NinetyPct_AGhipX,ninetieth percentile of x-axis acceleration for hip ActiGraph
+ NinetyPct_AGhipY,ninetieth percentile of y-axis acceleration for hip ActiGraph
+ NinetyPct_AGhipZ,ninetieth percentile of z-axis acceleration for hip ActiGraph
+TenPct_GEleftX,tenth percentile of x-axis acceleration for left wrist GENEActiv
+TenPct_GEleftY,tenth percentile of y-axis acceleration for left wrist GENEActiv
+ TenPct_GEleftZ,tenth percentile of z-axis acceleration for left wrist GENEActiv
+ TwentyFivePct_GEleftX,twenty fifth percentile of x-axis acceleration for left wrist GENEActiv
+ TwentyFivePct_GEleftY,twenty fifth percentile of y-axis acceleration for left wrist GENEActiv
+ TwentyFivePct_GEleftZ,twenty fifth percentile of z-axis acceleration for left wrist GENEActiv
+ FiftyPct_GEleftX,fiftieth percentile of x-axis acceleration for left wrist GENEActiv
+ FiftyPct_GEleftY,fiftieth percentile of y-axis acceleration for left wrist GENEActiv
+ FiftyPct_GEleftZ,fiftieth percentile of z-axis acceleration for left wrist GENEActiv
+ SeventyFivePct_GEleftX,seventy fifth percentile of x-axis acceleration for left wrist GENEActiv
+ SeventyFivePct_GEleftY,seventy fifth percentile of y-axis acceleration for left wrist GENEActiv
+ SeventyFivePct_GEleftZ,seventy fifth percentile of z-axis acceleration for left wrist GENEActiv
+ NinetyPct_GEleftX,ninetieth percentile of x-axis acceleration for left wrist GENEActiv
+ NinetyPct_GEleftY,ninetieth percentile of y-axis acceleration for left wrist GENEActiv
+ NinetyPct_GEleftZ,ninetieth percentile of z-axis acceleration for left wrist GENEActiv
+TenPct_GErightX,tenth percentile of x-axis acceleration for right wrist GENEActiv
+ TenPct_GErightY,tenth percentile of y-axis acceleration for right wrist GENEActiv
+ TenPct_GErightZ,tenth percentile of z-axis acceleration for right wrist GENEActiv
+ TwentyFivePct_GErightX,twenty fifth percentile of x-axis acceleration for right wrist GENEActiv
+ TwentyFivePct_GErightY,twenty fifth percentile of y-axis acceleration for right wrist GENEActiv
+ TwentyFivePct_GErightZ,twenty fifth percentile of z-axis acceleration for right wrist GENEActiv
+ FiftyPct_GErightX,fiftieth percentile of x-axis acceleration for right wrist GENEActiv
+ FiftyPct_GErightY,fiftieth percentile of y-axis acceleration for right wrist GENEActiv
+ FiftyPct_GErightZ,fiftieth percentile of z-axis acceleration for right wrist GENEActiv
+ SeventyFivePct_GErightX,seventy fifth percentile of x-axis acceleration for right wrist GENEActiv
+ SeventyFivePct_GErightY,seventy fifth percentile of y-axis acceleration for right wrist GENEActiv
+ SeventyFivePct_GErightZ,seventy fifth percentile of z-axis acceleration for right wrist GENEActiv
+ NinetyPct_GErightX,ninetieth percentile of x-axis acceleration for right wrist GENEActiv
+ NinetyPct_GErightY,ninetieth percentile of y-axis acceleration for right wrist GENEActiv
+ NinetyPct_GErightZ,ninetieth percentile of z-axis acceleration for right wrist GENEActiv
+TenPct_AGthighX,tenth percentile of x-axis acceleration for thigh ActiGraph
+ TenPct_AGthighY,tenth percentile of y-axis acceleration for thigh ActiGraph
+ TenPct_AGthighZ,tenth percentile of z-axis acceleration for thigh ActiGraph
+ TwentyFivePct_AGthighX,twenty fifth percentile of x-axis acceleration for thigh ActiGraph
+ TwentyFivePct_AGthighY,twenty fifth percentile of y-axis acceleration for thigh ActiGraph
+ TwentyFivePct_AGthighZ,twenty fifth percentile of z-axis acceleration for thigh ActiGraph
+ FiftyPct_AGthighX,fiftieth percentile of x-axis acceleration for thigh ActiGraph
+ FiftyPct_AGthighY,fiftieth percentile of y-axis acceleration for thigh ActiGraph
+ FiftyPct_AGthighZ,fiftieth percentile of z-axis acceleration for thigh ActiGraph
+ SeventyFivePct_AGthighX,seventy fifth percentile of x-axis acceleration for thigh ActiGraph
+ SeventyFivePct_AGthighY,seventy fifth percentile of y-axis acceleration for thigh ActiGraph
+ SeventyFivePct_AGthighZ,seventy fifth percentile of z-axis acceleration for thigh ActiGraph
+ NinetyPct_AGthighX,ninetieth percentile of x-axis acceleration for thigh ActiGraph
+ NinetyPct_AGthighY,ninetieth percentile of y-axis acceleration for thigh ActiGraph
+ NinetyPct_AGthighZ,ninetieth percentile of z-axis acceleration for thigh ActiGraph
