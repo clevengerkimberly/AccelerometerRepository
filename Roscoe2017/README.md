@@ -30,7 +30,7 @@ This model is in Phase 1.
 
 ---
 ## Instructions
-Signal magnitude vector per 1-sec was calculated as square root of the sum of the squared acceleration in each axis, minus gravity. Below are the developed cut-points. However, as noted in the R package [GGIR](), these cut-points are sensitive to sampling rate, so they provide a scaled version which can be applied to any raw acceleration data.
+Signal magnitude vector per 1-sec was calculated as square root of the sum of the squared acceleration in each axis, minus gravity. Below are the developed cut-points. However, as noted in the R package [GGIR](https://cran.r-project.org/web/packages/GGIR/vignettes/CutPoints.html), these cut-points are sensitive to sampling rate, so they provide a scaled version which can be applied to any raw acceleration data.
 
 ![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Roscoe2017/Roscoe.JPG)
 
