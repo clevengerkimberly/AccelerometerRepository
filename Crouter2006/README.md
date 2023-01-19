@@ -29,7 +29,7 @@ This model is in Phase 2.
 
 ---
 ## Instructions
-The models can be implemented as described below or using the TwoRegression R package.
+The models can be implemented as described below or using the [TwoRegression](https://cran.r-project.org/web/packages/TwoRegression/vignettes/TwoRegression.html) R package.
 Counts/min and the coefficient of variation (CV) for each minute (calculated using counts/10-s) are used to determine the correct equation for predicting METs.
 
 ![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Crouter2006/Crouter.png)
