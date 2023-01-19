@@ -29,7 +29,7 @@ This model is in Phase 1.
 
 ---
 ## Instructions
-A model to predict oxygen consumption (mL/kg/min) from vector magnitude (VM in g), vertical upward speed (Hu in m/min), and the vertical downward speed (Hd in m/min) is provided. VM is an integration of total acceleration (square root of the sum of the squared acceleration in each axis) for the period minus VM during rest. Hu and Hd were calculated either using an equation incorporating treadmill speed (m/min) and incline (%) (left) in the laboratory or using changes in device-measured barometric pressure in field-based observations (right).
+A model to predict oxygen consumption (mL/kg/min) from vector magnitude (VM in g), vertical upward speed (Hu in m/min), and the vertical downward speed (Hd in m/min) is provided. VM is an integration of total acceleration (square root of the sum of the squared acceleration in each axis) for the period minus VM during rest. Hu and Hd were calculated either using an equation incorporating treadmill speed (m/min) and incline (%) (second) in the laboratory or using changes in device-measured barometric pressure in field-based observations (bottom).
 
 ![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Yamazaki2009/Yamazaki.JPG)
 
