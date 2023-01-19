@@ -1,4 +1,4 @@
-# A universal, accurate intensity‐based classification of different physical activities using raw data of accelerometer
+# A universal, accurate intensity‐based classification of different physical activities using raw data of accelerometer
 ### Vähä‐Ypyä 2015 (2)
 ---
 
@@ -30,11 +30,11 @@ This model is in Phase 2.
 ## Instructions
 While the authors compare several features derived from the accelerometers, they conclude that MAD performed the best and thus, only present results from this metric. Calculate MAD (mg) as the mean distance of data points about the mean where n is the number of samples in the epoch, ri is the ith resultant sample within the epoch and r(bar) is the mean resultant value of the epoch. This can also be done in R using a package like acc or GGIR. In this paper, they used an epoch of 5.1 s (Hookie), 4.3 s (ActiGraph), or 6.4 s (GulfCoast).
 
-![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/V%C3%A4h%C3%A4Ypy%C3%A42015_2/VH2015_2.JPG)
+![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/V%C3%A4h%C3%A4Ypy%C3%A42015_2/aitt.png)
 
 Each epoch can they be classified using the cut-points, which can be used with any accelerometer model. Activities were divided into five distinct intensity classes; sedentary behaviors (class 0), slow walking (class 1), normal walking (class 2), brisk walking (class 3), and jogging and running (class 4). Limit 1 separates the intensity class 0 from class 1, limit 2 the class 1 from class 2, limit 3 the class 3 from class 2 and limit 4 the class 4 from class 3.
 
-![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/V%C3%A4h%C3%A4Ypy%C3%A42015_2/aitt.png)
+![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/V%C3%A4h%C3%A4Ypy%C3%A42015_2/VH2015_2.JPG)
 
 ---
 ## Source Information
