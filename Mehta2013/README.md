@@ -36,7 +36,7 @@ Acceleration (g) in each axis is summated after every 10 values and then a cumul
 ---
 ## Source Information
 #### *Reference*
-Mehta, S., & Singh, J. (2013). Indicating human activity intensity using accelerometer. Journal of Electronic Design Technology, 4(2), 18-23. [dLink to Paper](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Mehta2013/Mehta2013.pdf)
+Mehta, S., & Singh, J. (2013). Indicating human activity intensity using accelerometer. Journal of Electronic Design Technology, 4(2), 18-23. [Link to Paper](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Mehta2013/Mehta2013.pdf)
 
 
 #### *Corresponding author*
