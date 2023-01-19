@@ -31,13 +31,13 @@ This model is in Phase 3.
 ## Instructions
 Acceleration data were filtered using a fourth-order Butterworth band pass filter (0.2–15 Hz). Vector magnitude was calculated as the square root of the sum of the squared acceleration values in each axis and averaged over intervals of one second. Prediction equations for MJ/day are provided separately for pregnant and non-pregnant women.
 
-![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/vanHees2011/VH2011.JPG)
+![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/VanHees2011/VH2011.JPG)
 
 
 ---
 ## Source Information
 #### *Reference*
-van Hees, V. T., Renström, F., Wright, A., Gradmark, A., Catt, M., Chen, K. Y., ... & Franks, P. W. (2011). Estimation of daily energy expenditure in pregnant and non-pregnant women using a wrist-worn tri-axial accelerometer. PloS One, 6(7), e22922. https://doi.org/10.1371/journal.pone.0022922 [Link to Paper](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/vanHees2011/vanHees2011.PDF)
+van Hees, V. T., Renström, F., Wright, A., Gradmark, A., Catt, M., Chen, K. Y., ... & Franks, P. W. (2011). Estimation of daily energy expenditure in pregnant and non-pregnant women using a wrist-worn tri-axial accelerometer. PloS One, 6(7), e22922. https://doi.org/10.1371/journal.pone.0022922 [Link to Paper](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/vanHees2011/VanHees2011.PDF)
 
 
 
