@@ -1,4 +1,4 @@
-# Use of a 2-regression model for estimating energy expenditure in children
+# Use of a 2-regression model for estimating energy expenditure in children
 ### Crouter 2012
 ---
 
