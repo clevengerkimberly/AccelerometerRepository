@@ -1,0 +1,145 @@
+variable,definition,Feature Set X,Feature Set X,Feature Set X,Feature Set X
+MeanOrient_AGhipX,mean orientation in x-axis for the hip-worn ActiGraph,X,,,
+MeanOrient_AGhipY,mean orientation in y-axis for the hip-worn ActiGraph,X,,,
+MeanOrient_AGhipZ,mean orientation in z-axis for the hip-worn ActiGraph,X,,,
+VarOrient_AGhipX,variance in orientation in x-axis for the hip-worn ActiGraph,X,,,
+VarOrient_AGhipY,variance in orientation in y-axis for the hip-worn ActiGraph,X,,,
+VarOrient_AGhipZ,variance in orientation in z-axis for the hip-worn ActiGraph,X,,,
+Mean_AGhipX,mean acceleration in x-axis for the hip-worn ActiGraph,X,X,X,
+Mean_AGhipY,mean acceleration in y-axis for the hip-worn ActiGraph,X,X,X,
+Mean_AGhipZ,mean acceleration in z-axis for the hip-worn ActiGraph,X,X,X,
+Var_AGhipX,variance in acceleration in x-axis for the hip-worn ActiGraph,X,X,X,
+Var_AGhipY,variance in acceleration in y-axis for the hip-worn ActiGraph,X,X,X,
+Var_AGhipZ,variance in acceleration in z-axis for the hip-worn ActiGraph,X,X,X,
+Cov_AGhipX,covariance in acceleration in x-axis for the hip-worn ActiGraph,X,,,X
+Cov_AGhipY,covariance in acceleration in y-axis for the hip-worn ActiGraph,X,,,X
+Cov_AGhipZ,covariance in acceleration in z-axis for the hip-worn ActiGraph,X,,,X
+Max_AGhipX,maximum acceleration in x-axis for the hip-worn ActiGraph,X,,X,
+Max_AGhipY,maximum acceleration in y-axis for the hip-worn ActiGraph,X,,X,
+Max_AGhipZ,maximum acceleration in z-axis for the hip-worn ActiGraph,X,,X,
+Min_AGhipX,minimum acceleration in x-axis for the hip-worn ActiGraph,X,,X,
+Min_AGhipY,minimum acceleration in y-axis for the hip-worn ActiGraph,X,,X,
+Min_AGhipZ,minimum acceleration in z-axis for the hip-worn ActiGraph,X,,X,
+TenPct_AGhipX,tenth percentile of acceleration in x-axis for the hip-worn ActiGraph,X,,,X
+TenPct_AGhipY,tenth percentile of acceleration in y-axis for the hip-worn ActiGraph,X,,,X
+TenPct_AGhipZ,tenth percentile of acceleration in z-axis for the hip-worn ActiGraph,X,,,X
+TwentyFivePct_AGhipX,twenty fifth percentile of acceleration in x-axis for the hip-worn ActiGraph,X,,,X
+TwentyFivePct_AGhipY,twenty fifth percentile of acceleration in y-axis for the hip-worn ActiGraph,X,,,X
+TwentyFivePct_AGhipZ,twenty fifth percentile of acceleration in z-axis for the hip-worn ActiGraph,X,,,X
+FiftyPct_AGhipX,fiftieth percentile of acceleration in x-axis for the hip-worn ActiGraph,X,,,X
+FiftyPct_AGhipY,fiftieth percentile of acceleration in y-axis for the hip-worn ActiGraph,X,,,X
+FiftyPct_AGhipZ,fiftieth percentile of acceleration in z-axis for the hip-worn ActiGraph,X,,,X
+SeventyFivePct_AGhipX,seventy fifth percentile of acceleration in x-axis for the hip-worn ActiGraph,X,,,X
+SeventyFivePct_AGhipY,seventy fifth percentile of acceleration in y-axis for the hip-worn ActiGraph,X,,,X
+SeventyFivePct_AGhipZ,seventy fifth percentile of acceleration in z-axis for the hip-worn ActiGraph,X,,,X
+NinetyPct_AGhipX,ninety fifth percentile of acceleration in x-axis for the hip-worn ActiGraph,X,,,X
+NinetyPct_AGhipY,ninety fifth percentile of acceleration in y-axis for the hip-worn ActiGraph,X,,,X
+NinetyPct_AGhipZ,ninety fifth percentile of acceleration in z-axis for the hip-worn ActiGraph,X,,,X
+MeanOrient_AGthighX,mean orientation in x-axis for the thigh-worn ActiGraph,X,,,
+MeanOrient_AGthighY,mean orientation in y-axis for the thigh-worn ActiGraph,X,,,
+MeanOrient_AGthighZ,mean orientation in z-axis for the thigh-worn ActiGraph,X,,,
+VarOrient_AGthighX,variance in orientation in x-axis for the thigh-worn ActiGraph,X,,,
+VarOrient_AGthighY,variance in orientation in y-axis for the thigh-worn ActiGraph,X,,,
+VarOrient_AGthighZ,variance in orientation in z-axis for the thigh-worn ActiGraph,X,,,
+Mean_AGthighX,mean acceleration in x-axis for the thigh-worn ActiGraph,X,X,X,
+Mean_AGthighY,mean acceleration in y-axis for the thigh-worn ActiGraph,X,X,X,
+Mean_AGthighZ,mean acceleration in z-axis for the thigh-worn ActiGraph,X,X,X,
+Var_AGthighX,variance in acceleration in x-axis for the thigh-worn ActiGraph,X,X,X,
+Var_AGthighY,variance in acceleration in y-axis for the thigh-worn ActiGraph,X,X,X,
+Var_AGthighZ,variance in acceleration in z-axis for the thigh-worn ActiGraph,X,X,X,
+Cov_AGthighX,covariance in acceleration in x-axis for the thigh-worn ActiGraph,X,,,X
+Cov_AGthighY,covariance in acceleration in y-axis for the thigh-worn ActiGraph,X,,,X
+Cov_AGthighZ,covariance in acceleration in z-axis for the thigh-worn ActiGraph,X,,,X
+Max_AGthighX,maximum acceleration in x-axis for the thigh-worn ActiGraph,X,,X,
+Max_AGthighY,maximum acceleration in y-axis for the thigh-worn ActiGraph,X,,X,
+Max_AGthighZ,maximum acceleration in z-axis for the thigh-worn ActiGraph,X,,X,
+Min_AGthighX,minimum acceleration in x-axis for the thigh-worn ActiGraph,X,,X,
+Min_AGthighY,minimum acceleration in y-axis for the thigh-worn ActiGraph,X,,X,
+Min_AGthighZ,minimum acceleration in z-axis for the thigh-worn ActiGraph,X,,X,
+TenPct_AGthighX,tenth percentile of acceleration in x-axis for the thigh-worn ActiGraph,X,,,X
+TenPct_AGthighY,tenth percentile of acceleration in y-axis for the thigh-worn ActiGraph,X,,,X
+TenPct_AGthighZ,tenth percentile of acceleration in z-axis for the thigh-worn ActiGraph,X,,,X
+TwentyFivePct_AGthighX,twenty fifth percentile of acceleration in x-axis for the thigh-worn ActiGraph,X,,,X
+TwentyFivePct_AGthighY,twenty fifth percentile of acceleration in y-axis for the thigh-worn ActiGraph,X,,,X
+TwentyFivePct_AGthighZ,twenty fifth percentile of acceleration in z-axis for the thigh-worn ActiGraph,X,,,X
+FiftyPct_AGthighX,fiftieth percentile of acceleration in x-axis for the thigh-worn ActiGraph,X,,,X
+FiftyPct_AGthighY,fiftieth percentile of acceleration in y-axis for the thigh-worn ActiGraph,X,,,X
+FiftyPct_AGthighZ,fiftieth percentile of acceleration in z-axis for the thigh-worn ActiGraph,X,,,X
+SeventyFivePct_AGthighX,seventy fifth percentile of acceleration in x-axis for the thigh-worn ActiGraph,X,,,X
+SeventyFivePct_AGthighY,seventy fifth percentile of acceleration in y-axis for the thigh-worn ActiGraph,X,,,X
+SeventyFivePct_AGthighZ,seventy fifth percentile of acceleration in z-axis for the thigh-worn ActiGraph,X,,,X
+NinetyPct_AGthighX,ninety fifth percentile of acceleration in x-axis for the thigh-worn ActiGraph,X,,,X
+NinetyPct_AGthighY,ninety fifth percentile of acceleration in y-axis for the thigh-worn ActiGraph,X,,,X
+NinetyPct_AGthighZ,ninety fifth percentile of acceleration in z-axis for the thigh-worn ActiGraph,X,,,X
+MeanOrient_GEleftX,mean orientation in x-axis for the left wrist GENEActiv,X,,,
+MeanOrient_GEleftY,mean orientation in y-axis for the left wrist GENEActiv,X,,,
+MeanOrient_GEleftZ,mean orientation in z-axis for the left wrist GENEActiv,X,,,
+VarOrient_GEleftX,variance in orientation in x-axis for the left wrist GENEActiv,X,,,
+VarOrient_GEleftY,variance in orientation in y-axis for the left wrist GENEActiv,X,,,
+VarOrient_GEleftZ,variance in orientation in z-axis for the left wrist GENEActiv,X,,,
+Mean_GEleftX,mean acceleration in x-axis for the left wrist GENEActiv,X,X,X,
+Mean_GEleftY,mean acceleration in y-axis for the left wrist GENEActiv,X,X,X,
+Mean_GEleftZ,mean acceleration in z-axis for the left wrist GENEActiv,X,X,X,
+Var_GEleftX,variance in acceleration in x-axis for the left wrist GENEActiv,X,X,X,
+Var_GEleftY,variance in acceleration in y-axis for the left wrist GENEActiv,X,X,X,
+Var_GEleftZ,variance in acceleration in z-axis for the left wrist GENEActiv,X,X,X,
+Cov_GEleftX,covariance in acceleration in x-axis for the left wrist GENEActiv,X,,,X
+Cov_GEleftY,covariance in acceleration in y-axis for the left wrist GENEActiv,X,,,X
+Cov_GEleftZ,covariance in acceleration in z-axis for the left wrist GENEActiv,X,,,X
+Max_GEleftX,maximum acceleration in x-axis for the left wrist GENEActiv,X,,X,
+Max_GEleftY,maximum acceleration in y-axis for the left wrist GENEActiv,X,,X,
+Max_GEleftZ,maximum acceleration in z-axis for the left wrist GENEActiv,X,,X,
+Min_GEleftX,minimum acceleration in x-axis for the left wrist GENEActiv,X,,X,
+Min_GEleftY,minimum acceleration in y-axis for the left wrist GENEActiv,X,,X,
+Min_GEleftZ,minimum acceleration in z-axis for the left wrist GENEActiv,X,,X,
+TenPct_GEleftX,tenth percentile of acceleration in x-axis for the left wrist GENEActiv,X,,,X
+TenPct_GEleftY,tenth percentile of acceleration in y-axis for the left wrist GENEActiv,X,,,X
+TenPct_GEleftZ,tenth percentile of acceleration in z-axis for the left wrist GENEActiv,X,,,X
+TwentyFivePct_GEleftX,twenty fifth percentile of acceleration in x-axis for the left wrist GENEActiv,X,,,X
+TwentyFivePct_GEleftY,twenty fifth percentile of acceleration in y-axis for the left wrist GENEActiv,X,,,X
+TwentyFivePct_GEleftZ,twenty fifth percentile of acceleration in z-axis for the left wrist GENEActiv,X,,,X
+FiftyPct_GEleftX,fiftieth percentile of acceleration in x-axis for the left wrist GENEActiv,X,,,X
+FiftyPct_GEleftY,fiftieth percentile of acceleration in y-axis for the left wrist GENEActiv,X,,,X
+FiftyPct_GEleftZ,fiftieth percentile of acceleration in z-axis for the left wrist GENEActiv,X,,,X
+SeventyFivePct_GEleftX,seventy fifth percentile of acceleration in x-axis for the left wrist GENEActiv,X,,,X
+SeventyFivePct_GEleftY,seventy fifth percentile of acceleration in y-axis for the left wrist GENEActiv,X,,,X
+SeventyFivePct_GEleftZ,seventy fifth percentile of acceleration in z-axis for the left wrist GENEActiv,X,,,X
+NinetyPct_GEleftX,ninety fifth percentile of acceleration in x-axis for the left wrist GENEActiv,X,,,X
+NinetyPct_GEleftY,ninety fifth percentile of acceleration in y-axis for the left wrist GENEActiv,X,,,X
+NinetyPct_GEleftZ,ninety fifth percentile of acceleration in z-axis for the left wrist GENEActiv,X,,,X
+MeanOrient_GErightX,mean orientation in x-axis for the right wrist GENEActiv,X,,,
+MeanOrient_GErightY,mean orientation in y-axis for the right wrist GENEActiv,X,,,
+MeanOrient_GErightZ,mean orientation in z-axis for the right wrist GENEActiv,X,,,
+VarOrient_GErightX,variance in orientation in x-axis for the right wrist GENEActiv,X,,,
+VarOrient_GErightY,variance in orientation in y-axis for the right wrist GENEActiv,X,,,
+VarOrient_GErightZ,variance in orientation in z-axis for the right wrist GENEActiv,X,,,
+Mean_GErightX,mean acceleration in x-axis for the right wrist GENEActiv,X,X,X,
+Mean_GErightY,mean acceleration in y-axis for the right wrist GENEActiv,X,X,X,
+Mean_GErightZ,mean acceleration in z-axis for the right wrist GENEActiv,X,X,X,
+Var_GErightX,variance in acceleration in x-axis for the right wrist GENEActiv,X,X,X,
+Var_GErightY,variance in acceleration in y-axis for the right wrist GENEActiv,X,X,X,
+Var_GErightZ,variance in acceleration in z-axis for the right wrist GENEActiv,X,X,X,
+Cov_GErightX,covariance in acceleration in x-axis for the right wrist GENEActiv,X,,,X
+Cov_GErightY,covariance in acceleration in y-axis for the right wrist GENEActiv,X,,,X
+Cov_GErightZ,covariance in acceleration in z-axis for the right wrist GENEActiv,X,,,X
+Max_GErightX,maximum acceleration in x-axis for the right wrist GENEActiv,X,,X,
+Max_GErightY,maximum acceleration in y-axis for the right wrist GENEActiv,X,,X,
+Max_GErightZ,maximum acceleration in z-axis for the right wrist GENEActiv,X,,X,
+Min_GErightX,minimum acceleration in x-axis for the right wrist GENEActiv,X,,X,
+Min_GErightY,minimum acceleration in y-axis for the right wrist GENEActiv,X,,X,
+Min_GErightZ,minimum acceleration in z-axis for the right wrist GENEActiv,X,,X,
+TenPct_GErightX,tenth percentile of acceleration in x-axis for the right wrist GENEActiv,X,,,X
+TenPct_GErightY,tenth percentile of acceleration in y-axis for the right wrist GENEActiv,X,,,X
+TenPct_GErightZ,tenth percentile of acceleration in z-axis for the right wrist GENEActiv,X,,,X
+TwentyFivePct_GErightX,twenty fifth percentile of acceleration in x-axis for the right wrist GENEActiv,X,,,X
+TwentyFivePct_GErightY,twenty fifth percentile of acceleration in y-axis for the right wrist GENEActiv,X,,,X
+TwentyFivePct_GErightZ,twenty fifth percentile of acceleration in z-axis for the right wrist GENEActiv,X,,,X
+FiftyPct_GErightX,fiftieth percentile of acceleration in x-axis for the right wrist GENEActiv,X,,,X
+FiftyPct_GErightY,fiftieth percentile of acceleration in y-axis for the right wrist GENEActiv,X,,,X
+FiftyPct_GErightZ,fiftieth percentile of acceleration in z-axis for the right wrist GENEActiv,X,,,X
+SeventyFivePct_GErightX,seventy fifth percentile of acceleration in x-axis for the right wrist GENEActiv,X,,,X
+SeventyFivePct_GErightY,seventy fifth percentile of acceleration in y-axis for the right wrist GENEActiv,X,,,X
+SeventyFivePct_GErightZ,seventy fifth percentile of acceleration in z-axis for the right wrist GENEActiv,X,,,X
+NinetyPct_GErightX,ninety fifth percentile of acceleration in x-axis for the right wrist GENEActiv,X,,,X
+NinetyPct_GErightY,ninety fifth percentile of acceleration in y-axis for the right wrist GENEActiv,X,,,X
+NinetyPct_GErightZ,ninety fifth percentile of acceleration in z-axis for the right wrist GENEActiv,X,,,X
