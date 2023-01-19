@@ -33,9 +33,9 @@ A model to predict oxygen consumption (mL/kg/min) from vector magnitude (VM in g
 
 ![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Yamazaki2009/Yamazaki.JPG)
 
-![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Yamazaki2009/YamazakiH.JPG)
-
 ![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Yamazaki2009/YamazakiHTM.JPG)
+
+![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Yamazaki2009/YamazakiH.JPG)
 
 ---
 ## Source Information
