@@ -38,8 +38,7 @@ The ActivTracer accelerometer count was calculated as the average of the absolut
 ---
 ## Source Information
 #### *Reference*
-
-
-(https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Tanaka2007/Tanaka2007.pdf)
+Tanaka, C., Tanaka, S., Kawahara, J., & Midorikawa, T. (2007). Triaxial accelerometry for assessment of physical activity in young children. Obesity, 15(5), 1233-1241. https://doi.org/10.1038/oby.2007.145 [Link to Paper](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Tanaka2007/Tanaka2007.pdf)
 
 #### *Corresponding author*
+Chiaki Tanaka, c-tanaka@obirin.ac.jp
