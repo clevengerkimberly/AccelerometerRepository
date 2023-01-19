@@ -1,4 +1,4 @@
-# Validity of an integrative method for processing physical activity data
+# Validity of an integrative method for processing physical activity data
 ### Ellingson 2016
 ---
 
