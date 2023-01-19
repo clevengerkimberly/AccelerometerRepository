@@ -30,7 +30,7 @@ This model is in Phase 1 and 3.
 
 ---
 ## Instructions
-activPAL counts per 15-sec are used as the input to the logarithmic equation 1.85*e(0.00005*counts) to predict METs. This corresponds to cut-points of 8810(moderate) and 22621 (vigorous) counts.
+activPAL counts per 15-sec are used as the input to the logarithmic equation 1.85*e<sup>(0.00005*counts)</sup> to predict METs. This corresponds to cut-points of 8810(moderate) and 22621 (vigorous) counts.
 
 
 ---
