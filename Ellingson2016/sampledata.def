@@ -1,0 +1,24 @@
+"DataFileName","L:\ACSM Paffenberger Grant 2012-2013\SIT Study\Data\ActiGraph Data\different_activities_test\activPAL\Laura-VP1235049 30Jun14 11-15am for 3h 23m.datx"
+"SerialNumber","vP1235049"
+"Software version","7.2.20 Objectively Quantifying Physical Activity"
+"CompressionFactor",0
+"DataTotalCount",129239
+"PredictedSamples",0
+"Event Total",2538
+"Download check",0
+"Data not written",0
+"TimeCorrectionFactor",0
+"SamplingFrequency",10
+"SensorVertical",150
+"SensorHorizontal",1
+"SensorInverted",0
+"MinimumSittingPeriod",10
+"MinimumUprightPeriod",10
+"MaximumActivStepPeriod",0
+"CadenceActivStepDuration",5
+"StandToSitThresholdPercentage",30
+"SitToStandThresholdPercentage",50
+"StepThresholdPercentage",15
+"PeakBand",0
+"StartTime",#2014-06-30 11:15:33#
+"StopTime",#2014-06-30 14:39:20#
