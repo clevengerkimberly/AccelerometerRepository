@@ -31,7 +31,7 @@ This model is in Phase 2.
 ## Instructions
 Counts/min and the coefficient of variation (CV) for each minute (calculated using counts/15 s) are used to determine the correct equation for predicting METs.
 
-![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Crouter2007/crouter2007.JPG)
+![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Crouter2007/crouter2007.png)
 
 
 ---
