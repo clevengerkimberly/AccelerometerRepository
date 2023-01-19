@@ -1,4 +1,4 @@
-# Use of smartphone accelerometers and signal energy for estimating energy expenditure in daily-living conditions
+# Use of smartphone accelerometers and signal energy for estimating energy expenditure in daily-living conditions
 ### Duclos 2015
 ---
 
