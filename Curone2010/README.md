@@ -1,4 +1,4 @@
-# A real-time and self-calibrating algorithm based on triaxial accelerometer signals for the detection of human posture and activity
+# A real-time and self-calibrating algorithm based on triaxial accelerometer signals for the detection of human posture and activity
 ### Curone 2010
 ---
 
