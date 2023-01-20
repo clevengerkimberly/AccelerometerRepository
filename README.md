@@ -7,8 +7,11 @@ We recently conducted a [scoping review](https://doi.org/10.1088/1361-6579/ac89c
 
 ## What is a 'novel' method?
 More details about our inclusion/exclusion criteria can be found in our [review](https://doi.org/10.1088/1361-6579/ac89ca) but basically:
-What you will find here: activity-specific, branched, or 2-regression models, non-linear regression models, and machine learning models (e.g., artificial neural networks, decision trees) using either counts or raw acceleration features as inputs, and linear regression or cut-points using raw acceleration metrics as inputs
-What you won't find here (yet): count-based cut-points or linear regression models, methods only focused on determining activity type. Importantly, our review did not include methods which predict activity type, or methods developed using another device as the sole criterion. 
+
+<b>What you will find here:</b> activity-specific, branched, or 2-regression models, non-linear regression models, and machine learning models (e.g., artificial neural networks, decision trees) using either counts or raw acceleration features as inputs, and linear regression or cut-points using raw acceleration metrics as inputs
+
+<b>What you won't find here (yet):</b> count-based cut-points or linear regression models, methods only focused on determining activity type. Importantly, our review did not include methods which predict activity type, or methods developed using another device as the sole criterion. 
+
 
 ## What is in the repository?
 For 56 methods, the authors provided their equations or cut-points directly in the paper, which we have reproduced here with brief instructions. These approaches can be implemented in any software (e.g., Excel, R, Python).
