@@ -18,26 +18,12 @@ The following models are available. Root Mean Square Error (RMSE) is also provid
 
 |  |  |
 | ------------- | ------------- |
-| *Sample*  | |
-| *Setting*  | |
-| *Activities*  |   |
-| *Criterion* |   |
-| *Accelerometer(s)* |   |
-| *Validation approach* |   |
-
-Development/Validation
-Sample: 24 (12 males) healthy adults, 18-80 years of age
-
-Setting: Laboratory
-
-Activities: Activities of daily living, cycling, walking and running, resistance exercise, stairs, stationary behaviors
-
-Criterion: Oxycon Mobile (VO2)
-
-Accelerometer(s): ActiGraph GT9X on right hip, ankle, and both wrists
-
-Validation approach: Leave-one-out cross-validation
- 
+| *Sample*  |24 (12 males) healthy adults, 18-80 years of age |
+| *Setting*  |Laboratory |
+| *Activities*  |Activities of daily living, cycling, walking and running, resistance exercise, stairs, stationary behaviors   |
+| *Criterion* |Oxycon Mobile (VO2)   |
+| *Accelerometer(s)* |ActiGraph GT9X on right hip, ankle, and both wrists   |
+| *Validation approach* |Leave-one-out cross-validation   |
 
  
 
