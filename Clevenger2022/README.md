@@ -26,7 +26,7 @@ Demonstrates use of a "consensus method" whereby 10 methods for estimating time 
 ---
 ## Phase Designation
 [What's this?](https://github.com/clevengerkimberly/AccelerometerRepository/blob/a76916ebe2a6002b20cdc6ef39c889d62ce9d6ae/phase%20_images/phase.md)
-This model is in .
+This model is in Phase 1 and 2.
 ![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/phase%20_images/Phase1and2.JPG)
 
 ---
