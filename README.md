@@ -14,9 +14,12 @@ More details about our inclusion/exclusion criteria can be found in our [review]
 
 
 ## What is in the repository?
-For 56 methods, the authors provided their equations or cut-points directly in the paper, which we have reproduced here with brief instructions. These approaches can be implemented in any software (e.g., Excel, R, Python).
-For 15 methods, authors provided functions or models in R. For these methods, we include sample data, instructions, and code based on the information provided by the original authors. As the purpose of this repository is to simply make these models easier to find (by putting them all in one place), the provided code is not optimized-meaning there is certainly more efficient code, particularly for implementing the models for data from more than one participant. Feel free to reach out if you need help with how to use this code more efficiently/easily for your project or have questions. 
-For most methods (~106), authors did not provide access to their entire method so these are not available in the repository (yet) - contact us if you'd like your method to be added.
+See the full [list here.](https://github.com/clevengerkimberly/AccelerometerRepository/wiki/Full-List) 
+
+For most methods, the authors provided their equations or cut-points directly in the paper, which we have reproduced here with brief instructions. These approaches can be implemented in any software (e.g., Excel, R, Python). For some methods, authors provided functions or models in R. For these methods, we include sample data, instructions, and code based on the information provided by the original authors. As the purpose of this repository is to simply make these models easier to find (by putting them all in one place), the provided code is not optimized-meaning there is certainly more efficient code, particularly for implementing the models for data from more than one participant. Feel free to reach out if you need help with how to use this code more efficiently/easily for your project or have questions. 
+
+For [most methods](https://github.com/clevengerkimberly/AccelerometerRepository/wiki/Not-available), authors did not provide access to their entire method so these are not available in the repository (yet) - contact us if you'd like your method to be added.
+
 
 ## What about.......?
 Specific methods may not be included in the repository because they did not meet the inclusion criteria (e.g., because they predict activity type or only use another accelerometer as the criterion). If you see a missing model/method, please contact us at [accelerometerrepository@gmail.com](mailto:accelerometerrepository@gmail.com) or open an issue on Github. We hope to add additional information about independent cross-validation efforts for each model and information about cut-points or other approaches to classifying activity intensity or predicting energy expenditure. Email us or open an issue if you have other suggestions.
