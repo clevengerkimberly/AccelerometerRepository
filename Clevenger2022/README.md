@@ -33,12 +33,12 @@ This model is in .
 ## Instructions
 Ten individual classification methods (below) are used to calculate time spent in moderate-to-vigorous physical activity, then averaged together as the "consensus estimate."
 
-![image]()
+![image](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Clevenger2022/clevenger.png)
 
 ---
 ## Source Information
 #### *Reference*
-Clevenger, K. A., Mackintosh, K. A., McNarry, M. A., Pfeiffer, K. A., Nelson, M. B., Bock, J. M., ... & Montoye, A. H. (2022). A consensus method for estimating physical activity levels in adults using accelerometry. Journal of Sports Sciences, 1-8. https://doi.org/10.1080/02640414.2022.2159117 Link to paper
+Clevenger, K. A., Mackintosh, K. A., McNarry, M. A., Pfeiffer, K. A., Nelson, M. B., Bock, J. M., ... & Montoye, A. H. (2022). A consensus method for estimating physical activity levels in adults using accelerometry. Journal of Sports Sciences, 1-8. https://doi.org/10.1080/02640414.2022.2159117 [Link to paper](https://github.com/clevengerkimberly/AccelerometerRepository/blob/main/Clevenger2022/Clevenger.pdf)
 
 
 #### *Corresponding author*
